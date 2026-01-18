@@ -1,0 +1,15 @@
+{
+  "title": "Test Source",
+  "description": "Oracle Test Source",
+  "author": "OsakiTsukiko",
+  "datasets": [
+    {
+      "description": "Test dataset 1",
+      "data": []
+    },
+    {
+      "description": "Test dataset 2",
+      "data": []
+    }
+  ]
+}
